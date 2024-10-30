@@ -1,5 +1,7 @@
-# 42-FT_printf
-
+# <a href="#" style="pointer-events: none;"> <img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/></a> <a href="https://github.com/AdaoG0n" style="pointer-events: none;"> <img src="https://img.shields.io/badge/Follow-me?color=%2312bab9&style=flat-square"/></a> • 42 FT_printf 
+ <a href="#" style="pointer-events: none;">
+ <img align="right" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/ft_printf.png" width="400"/>
+ </a>
 Passo a Passo para o Projeto ft_printf
 Para completar o projeto de recodificação da função printf() em C, siga os passos abaixo:
 1. Preparação do Ambiente
