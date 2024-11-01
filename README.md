@@ -4,15 +4,14 @@
  </a>
 
 Para completar o projeto de recodificação da função `printf()` em `C`, siga os passos abaixo:
-
----
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&letterSpacing=0px&duration=1000&pause=4000&center=true&vCenter=true&width=550&lines=___________________________________________________________________________________________________________________)
 
 ### 1. Preparação do Ambiente
 
 Instale o Compilador: Certifique-se de que você tem um compilador C instalado (como gcc).<br/>
 Configuração do Repositório: Crie um repositório Git para armazenar seu código.
 
----
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
 ### 2. Estrutura do Projeto
 
@@ -20,7 +19,7 @@ Configuração do Repositório: Crie um repositório Git para armazenar seu cód
 </br> Um diretório para os arquivos de código (src/).
 </br> Um diretório para os cabeçalhos (include/).
 
----
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
 ### 3. Implementação da Função ft_printf
 
@@ -42,13 +41,13 @@ Conversões Necessárias:
   </br>       `%X:` número em hexadecimal (maiúsculo)
    </br>      `%%:` símbolo de porcentagem
 
----
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
 ### 4. Gerenciamento de Argumentos Variáveis
 
 Utilize as funções `va_start`, `va_arg`, e `va_end` para lidar com um número variável de argumentos.
 
----
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
 ### 5. Criação do Makefile
 
@@ -82,26 +81,28 @@ fclean: clean
 re: fclean all
 ```
 
----
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
 ### 6. Testes
 
 </br> Crie programas de teste para verificar a funcionalidade da sua implementação.
 </br> Teste todos os casos de uso, incluindo os casos limites.
 
----
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
 ### 7. Submissão
 
 </br> Faça commit do seu código no repositório Git.
 </br> Verifique se todos os arquivos estão nomeados corretamente e se não há erros de norma.
 
----
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
 >[!Tip]
 >Mantenha seu código bem estruturado e documentado.<br/>
 >Revise a documentação sobre funções variádicas em C para melhor compreensão.
 
----
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
-Seguindo esses passos, você estará no caminho certo para completar o projeto com sucesso!
+###### Projeto desenvolvido por: [Adão Gonçalves](https://github.com/AdaoG0n)
+
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FAdaoG0n%2F42-FT_printf.json&style=flat-square&labelColor=black&color=blue)
