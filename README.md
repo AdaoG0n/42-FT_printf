@@ -13,6 +13,9 @@ Para completar o projeto de recodificação da função `printf()` em `C`, siga 
 </br> Um diretório para os arquivos de código (src/).
 </br> Um diretório para os cabeçalhos (include/).
 
+>[!Note]
+> Eu decidi deixar tudo no mesmo diretório, mas é boa prática dividir os arquivos nos diretórios correspondentes.
+
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
 ### 2. Implementação da Função ft_printf
