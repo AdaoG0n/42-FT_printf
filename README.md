@@ -7,8 +7,6 @@ Para completar o projeto de recodificação da função `printf()` em `C`, siga 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&letterSpacing=0px&duration=1000&pause=4000&center=true&vCenter=true&width=550&lines=___________________________________________________________________________________________________________________)
 
 
-![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
-
 ### 1. Estrutura do Projeto
 
 </br> Crie a Estrutura de Diretórios:
