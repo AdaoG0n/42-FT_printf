@@ -49,11 +49,11 @@ Utilize as funções `va_start`, `va_arg`, e `va_end` para lidar com um número 
 ### 4. Criação do Makefile
 
 Crie um Makefile com as seguintes regras:
-        `NAME:` nome do arquivo executável.
-        `all:` compila todos os arquivos.
-        `clean:` remove arquivos temporários.
-        `fclean:` remove todos os arquivos gerados.
-        `re:` recompila tudo.
+       </br>  `NAME:` nome do arquivo executável.
+      </br>   `all:` compila todos os arquivos.
+        </br> `clean:` remove arquivos temporários.
+     </br>    `fclean:` remove todos os arquivos gerados.
+    </br>     `re:` recompila tudo.
 
 Exemplo básico de Makefile:
 
