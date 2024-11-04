@@ -107,6 +107,8 @@ re: fclean all
   </a>
 </p> 
 
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
+
 ### Links úteis
 
 - [ ] [francinette](https://github.com/xicodomingues/francinette)</br>
