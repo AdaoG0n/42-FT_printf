@@ -6,14 +6,10 @@
 Para completar o projeto de recodificação da função `printf()` em `C`, siga os passos abaixo:
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&letterSpacing=0px&duration=1000&pause=4000&center=true&vCenter=true&width=550&lines=___________________________________________________________________________________________________________________)
 
-### 1. Preparação do Ambiente
-
-Instale o Compilador: Certifique-se de que você tem um compilador C instalado (como gcc).<br/>
-Configuração do Repositório: Crie um repositório Git para armazenar seu código.
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
-### 2. Estrutura do Projeto
+### 1. Estrutura do Projeto
 
 </br> Crie a Estrutura de Diretórios:
 </br> Um diretório para os arquivos de código (src/).
@@ -21,7 +17,7 @@ Configuração do Repositório: Crie um repositório Git para armazenar seu cód
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
-### 3. Implementação da Função ft_printf
+### 2. Implementação da Função ft_printf
 
 Prototype: Defina o protótipo da função:
    ```sh
@@ -43,13 +39,13 @@ Conversões Necessárias:
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
-### 4. Gerenciamento de Argumentos Variáveis
+### 3. Gerenciamento de Argumentos Variáveis
 
 Utilize as funções `va_start`, `va_arg`, e `va_end` para lidar com um número variável de argumentos.
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
-### 5. Criação do Makefile
+### 4. Criação do Makefile
 
 Crie um Makefile com as seguintes regras:
         `NAME:` nome do arquivo executável.
@@ -83,14 +79,14 @@ re: fclean all
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
-### 6. Testes
+### 5. Testes
 
 </br> Crie programas de teste para verificar a funcionalidade da sua implementação.
 </br> Teste todos os casos de uso, incluindo os casos limites.
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
-### 7. Submissão
+### 6. Submissão
 
 </br> Faça commit do seu código no repositório Git.
 </br> Verifique se todos os arquivos estão nomeados corretamente e se não há erros de norma.
