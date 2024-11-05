@@ -17,7 +17,7 @@
 
 int	ft_printf(const char *format, ...);
 int	ft_print_char(char c);
-int	ft_print_hex(unsigned int num, int uppercase);
+int	ft_print_hex(unsigned long num, int uppercase);
 int	ft_print_number(int n);
 int	ft_print_pointer(void *ptr);
 int	ft_print_string(char *str);

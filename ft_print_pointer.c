@@ -18,6 +18,8 @@ int	ft_print_pointer(void *ptr)
 
 	count = 0;
 	address = (unsigned long)ptr;
+	if (address == 0)
+		return (write(1, "(nil)", 5));
 	count += write(1, "0x", 2);
 	count += ft_print_hex(address, 0);
 	return (count);

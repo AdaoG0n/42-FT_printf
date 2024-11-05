@@ -11,7 +11,7 @@
 /* ************************************************************************** */
 #include "ft_printf.h"
 
-int	ft_print_hex(unsigned int num, int uppercase)
+int	ft_print_hex(unsigned long num, int uppercase)
 {
 	int		count;
 	char	*hex_lower;
