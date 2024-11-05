@@ -1,10 +1,12 @@
-# <a href="#" style="pointer-events: none;"> <img src="https://img.shields.io/badge/status-0%20%2F%20100%20%E2%98%85-success?color=%2312bab9&style=flat-square"/> <img src="https://img.shields.io/github/last-commit/AdaoG0n/42-FT_printf?style=flat-square&color=%2312bab9" /> </a> • 42 FT_printf <a href="https://github.com/AdaoG0n" style="pointer-events: none;"> <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/Followbutton.png" width="130" align="right"/></a>
+# <a href="#" style="pointer-events: none;"> <img src="https://img.shields.io/badge/status-0%20%2F%20100%20%E2%98%85-success?color=%2312bab9&style=flat-square"/> <img src="https://img.shields.io/github/last-commit/AdaoG0n/42-FT_printf?style=flat-square&color=%2312bab9" /> </a> <a href="https://github.com/AdaoG0n" style="pointer-events: none;"> <img src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/Followbutton.png" width="130" align="right"/></a>
  <a href="#" style="pointer-events: none;">
- <img align="right" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/ft_printf.png" width="400"/>
+ <img align="right" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/Printf.png" width=""/>
+</br>
+</br>
  </a>
 
 Para completar o projeto de recodificação da função `printf()` em `C`, siga os passos abaixo:
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&letterSpacing=0px&duration=1000&pause=4000&center=true&vCenter=true&width=550&lines=__________________________________________________________________________________________________)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=40&letterSpacing=0px&duration=1000&pause=4000&center=true&vCenter=true&width=1900&lines=___________________________________________________________________________________________________)
 
 
 ### 1. Estrutura do Projeto
