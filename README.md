@@ -116,8 +116,8 @@ re: fclean all
 - [ ] [francinette](https://github.com/xicodomingues/francinette)</br>
 - [ ] [printf_tester](https://github.com/Tripouille/printfTester)
 
-![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/madeby.gif)
 ###### Projeto desenvolvido por: [Adão Gonçalves](https://github.com/AdaoG0n)
 
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FAdaoG0n%2F42-FT_printf.json&style=flat-square&labelColor=black&color=blue)
