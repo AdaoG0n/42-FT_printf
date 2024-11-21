@@ -3,6 +3,9 @@
 # <a href="#" style="pointer-events: none;"> <img src="https://img.shields.io/badge/status-100%20%2F%20100%20%E2%98%85-success?color=%2312bab9&style=flat-square"/> <img src="https://img.shields.io/github/last-commit/AdaoG0n/42-FT_printf?style=flat-square&color=%2312bab9" /> </a>
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/ft_printf.gif)
+<p align="center">
+  <a href="#testes">Testers</a>  •  <a href="#usefull-links">Usefull Links</a> 
+</p>
 </br>
 </br>
  </a>
@@ -84,19 +87,37 @@ re: fclean all
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
-### 5. Testes
+### Testes
 
 </br> Crie programas de teste para verificar a funcionalidade da sua implementação.
 </br> Teste todos os casos de uso, incluindo os casos limites.
+</br>
+
+> Segue a baixo a lista de testers para verficar o correto funcionamento do projeto:
+
+| Testers                                                                                              | Autor           |
+| :--------------------------------------------------------------------------------------------------- | :---            |
+| [Debugging with main.c](https://github.com/Kuninoto/42_ft_printf/blob/master/lvl_1_ft_printf/main.c) | `Kuninoto`      |
+| [francinette](https://github.com/xicodomingues/francinette)                                          | `xicodomingues` |
+| [printfTester](https://github.com/Tripouille/printfTester)                                           | `Tripouille`    |
+| [ft_printf_tester](https://github.com/paulo-santana/ft_printf_tester)                                | `paulo-santana` |
+
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
-### 6. Submissão
+### Usefull Links
 
-</br> Faça commit do seu código no repositório Git.
-</br> Verifique se todos os arquivos estão nomeados corretamente e se não há erros de norma.
-
-![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
+| Resource                                                                                                                                      |
+| :-------------------------------------------------------------------------------------------------------------------------------------------- |
+| [C Tutorial – printf](https://www.codingunit.com/printf-format-specifiers-format-conversions-and-formatted-output)                            |
+| [printf Reference](https://cplusplus.com/reference/cstdio/printf)                                                                             |
+| [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)                                                    |
+| [Printing Floating-Point Numbers](https://www.ryanjuckett.com/printing-floating-point-numbers)                                                |
+| [printf(3) — Linux manual page](https://man7.org/linux/man-pages/man3/printf.3.html)                                                          |
+| [printf invocation (GNU Coreutils 9.4)](https://www.gnu.org/software/coreutils/manual/html_node/printf-invocation.html#printf-invocation)     |
+| [Formatted Output (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Formatted-Output.html)                              |
+| [Table of Output Conversions (The GNU C Library)](https://www.gnu.org/software/libc/manual/html_node/Table-of-Output-Conversions.html)        |
+| [Printing Floating-Point Numbers Quickly and Accurately with Integers](https://www.cs.tufts.edu/~nr/cs257/archive/florian-loitsch/printf.pdf) |
 
 >[!Tip]
 >Mantenha seu código bem estruturado e documentado.<br/>
@@ -113,10 +134,7 @@ re: fclean all
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
-### Links úteis
 
-- [ ] [francinette](https://github.com/xicodomingues/francinette)</br>
-- [ ] [printf_tester](https://github.com/Tripouille/printfTester)
 
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/madeby.gif)
