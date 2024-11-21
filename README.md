@@ -4,7 +4,7 @@
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/ft_printf.gif)
 <p align="center">
-  <a href="#testes">Testers</a>  •  <a href="#usefull-links">Usefull Links</a> 
+  <a href="#testes">Testers</a>  •  <a href="#useful-links">Useful Links</a> 
 </p>
 </br>
 </br>
@@ -95,7 +95,7 @@ re: fclean all
 
 > Segue a baixo a lista de testers para verficar o correto funcionamento do projeto:
 
-| Testers                                                                                              | Autor           |
+| Testers                                                                                              | Author           |
 | :--------------------------------------------------------------------------------------------------- | :---            |
 | [Debugging with main.c](https://github.com/Kuninoto/42_ft_printf/blob/master/lvl_1_ft_printf/main.c) | `Kuninoto`      |
 | [francinette](https://github.com/xicodomingues/francinette)                                          | `xicodomingues` |
@@ -105,7 +105,7 @@ re: fclean all
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
-### Usefull Links
+### Useful Links
 
 | Resource                                                                                                                                      |
 | :-------------------------------------------------------------------------------------------------------------------------------------------- |
