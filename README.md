@@ -4,7 +4,7 @@
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/ft_printf.gif)
 <p align="center">
-  <a href="#testers">Testers</a>  •  <a href="#useful-links">Useful Links</a> 
+  <a href="#testers">Testers</a>  •  <a href="#useful-links">Useful Links</a>  •  <a href="https://github.com/AdaoG0n/42-FT_printf/blob/main/README_pt.md">Portuguese 🇵🇹</a>
 </p>
 
 To complete the project of recreating the `printf()` function in `C`, follow the steps below:
