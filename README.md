@@ -84,7 +84,7 @@ re: fclean all
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
-### 5. Testing
+### Testing
 
 Create test programs to verify the functionality of your implementation. Test all use cases, including edge cases.
 
