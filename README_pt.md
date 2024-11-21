@@ -6,8 +6,6 @@
 <p align="center">
   <a href="#testes">Testers</a>  •  <a href="#useful-links">Useful Links</a> 
 </p>
-</br>
-</br>
  </a>
 
 Para completar o projeto de recodificação da função `printf()` em `C`, siga os passos abaixo:
