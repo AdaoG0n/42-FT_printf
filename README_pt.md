@@ -4,7 +4,7 @@
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/ft_printf.gif)
 <p align="center">
-  <a href="#testes">Testers</a>  •  <a href="#useful-links">Useful Links</a> 
+  <a href="#testes">Testers</a>  •  <a href="#useful-links">Useful Links</a>  •  <a href="https://github.com/AdaoG0n/42-FT_printf/blob/main/README.md">English 🇬🇧</a> 
 </p>
  </a>
 
